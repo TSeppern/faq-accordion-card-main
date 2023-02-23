@@ -4,7 +4,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://tseppern.github.io/faq-accordion-card-main/]
 
 ## My process
 
